@@ -23,18 +23,26 @@ This is a quiz application built with React.
 
 Here are some screenshots of the application:
 
-**Login Page**
+**Image of the project **
 
-**Quiz page (login page)**
-![Login Page](./1.png)
-**Quiz Page (Question 1)**
-![Quiz Page 1](./2.png)
 
-**Quiz Page (Question 3)**
-![Quiz Page 2](./3.png)
+<img width="446" alt="1" src="https://github.com/user-attachments/assets/eb3461c5-47b3-4133-8206-0acb587bc39a" />
 
-**Quiz Results**
-![Quiz Results](./5.png)
 
-**Quiz Reports**
-![Quiz Reports](./6.png)
+<img width="440" alt="2" src="https://github.com/user-attachments/assets/304eb60d-d154-4403-9462-137a976104d5" />
+
+
+
+<img width="448" alt="3" src="https://github.com/user-attachments/assets/6c38ebec-7415-4f30-beba-2d3a930a8510" />
+
+
+
+<img width="449" alt="4" src="https://github.com/user-attachments/assets/07e55945-79c1-4e3a-a8c4-6e7dfa55b90b" />
+
+
+
+<img width="440" alt="5" src="https://github.com/user-attachments/assets/a6f94b19-c3b1-4c3a-8533-f4978158125f" />
+
+
+
+<img width="445" alt="7" src="https://github.com/user-attachments/assets/a36250f4-d89c-494e-8582-1f48b34fe3fb" />
